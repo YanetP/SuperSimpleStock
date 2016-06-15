@@ -1,0 +1,5 @@
+c:\users\lrypvr\documents\visual studio 2015\Projects\SuperSimpleStock\SuperSimpleStock\bin\Debug\SuperSimpleStock.exe.config
+c:\users\lrypvr\documents\visual studio 2015\Projects\SuperSimpleStock\SuperSimpleStock\bin\Debug\SuperSimpleStock.exe
+c:\users\lrypvr\documents\visual studio 2015\Projects\SuperSimpleStock\SuperSimpleStock\bin\Debug\SuperSimpleStock.pdb
+c:\users\lrypvr\documents\visual studio 2015\Projects\SuperSimpleStock\SuperSimpleStock\obj\Debug\SuperSimpleStock.exe
+c:\users\lrypvr\documents\visual studio 2015\Projects\SuperSimpleStock\SuperSimpleStock\obj\Debug\SuperSimpleStock.pdb
